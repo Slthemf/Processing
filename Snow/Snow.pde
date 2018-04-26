@@ -1,4 +1,3 @@
-PVector[] leaves;
 PVector[] fallingLeaves;
 
 void setup() {
